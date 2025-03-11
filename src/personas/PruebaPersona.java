@@ -13,6 +13,8 @@ public class PruebaPersona {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+
+        System.out.println("Hola Rubén Martín Andrade");
     	
          // Creamos varias instancias de personas
          Persona per1 = new Persona("20222444L", "María", "Carcelén Sánchez", 67);
